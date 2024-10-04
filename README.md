@@ -36,3 +36,5 @@ Lista de objetivos de retos por dia:
 
 · Día 29: Crea un sistema de pestañas (tabs) para mostrar información. Necesita algo de Javascript. <br/>
 · Día 30: Carga una librería Javascript de confetti y lánzalo cuando pulses en un botón. Requiere algo de Javascript. <br/> 
+
+Créditos a: https://manz.dev/ de donde conseguí este reto de programación HTML.
