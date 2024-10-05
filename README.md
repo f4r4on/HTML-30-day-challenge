@@ -2,7 +2,7 @@
 
 Lista de objetivos de retos por dia:
 
-· Día 1: Crea una página HTML con código CSS desde un archivo diferente. <br/>
+· Día 1: Crea una página HTML con código CSS desde un archivo diferente. [✓]<br/>
 · Día 2: Crea una página con un titular, varios párrafos de texto y una imagen. <br/>
 · Día 3: Construye una página con un párrafo que tenga enlaces internos y externos (a otros sitios web). <br/>
 · Día 4: Valida el código HTML de tus ejemplos anteriores (y los siguientes a partir de ahora). <br/>
